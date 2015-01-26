@@ -1,6 +1,6 @@
 # 455-lab-assignments
 
-Lab Assignment for Software Engineer in training
+Lab Assignments for Software Engineer in training
 
 #Byron Maung-U
 
